@@ -1,0 +1,18 @@
+{
+    "ide_keybind": {
+        "Copy": ["复制", "<Control-c>"],
+        "Paste": ["粘贴", "<Control-v>"],
+        "Cut": ["剪切", "<Control-x>"],
+        "Undo": ["撤销", "<Control-z>"],
+        "Redo": ["重做", "<Control-Shift-z>"],
+        "Select All": ["全选", "<Control-a>"]
+    },
+    "page_keybind": {
+        "New": ["新建", "<Control-n>"],
+        "Open": ["打开", "<Control-o>"],
+        "Save": ["保存", "<Control-s>"],
+        "Cmd": ["打开终端", "<Control-Alt-c>"],
+        "Build": ["运行", "<Control-b>"],
+        "Setting": ["设置", "<Control-Alt-s>"]
+    }
+}

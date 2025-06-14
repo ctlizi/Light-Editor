@@ -1,0 +1,17 @@
+{
+    "name": "light",
+    "default": "litera",
+    "MainColor": "#ffffff",
+    "SecondColor": "#f0f0f0",
+    "TextColor": "#000000",
+    "HighlightColor": {
+        "string": "#C36315",
+        "numbers": "#E94595",
+        "baskets": "#66C578",
+        "keywords": "#8336B2",
+        "functions": "#0000FF",
+        "user_functions": "#0768FF",
+        "comments": "#66C578",
+        "default": "#000000"
+    }
+}

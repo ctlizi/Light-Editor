@@ -1,0 +1,17 @@
+{
+    "name": "one-dark",
+    "default": "darkly",
+    "MainColor": "#282C34",
+    "SecondColor": "#21252B",
+    "TextColor": "#FFFFFF",
+    "HighlightColor": {
+        "string": "#66C578",
+        "numbers": "#D19A66",
+        "baskets": "#E8B836",
+        "keywords": "#D25ED3",
+        "functions": "#2BBAC5",
+        "user_functions": "#599DD5",
+        "comments": "#7F8591",
+        "default": "#FFFFFF"
+    }
+}

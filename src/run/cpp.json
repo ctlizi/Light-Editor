@@ -1,0 +1,11 @@
+{
+    "name": "cpp",
+    "Mingw": "C:/Mingw/mingw64",
+    "build": [
+        "{dir}",
+        "cpp",
+        "{file}",
+        "{dir}/build.exe",
+        "{Mingw}\\bin\\g++.exe"
+    ]
+}

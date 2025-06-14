@@ -1,0 +1,8 @@
+{
+    "name": "python",
+    "build": [
+        "{dir}",
+        "python",
+        "{file}"
+    ]
+}
